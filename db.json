@@ -4,32 +4,32 @@
       "img": "https://cs.petrovich.ru/images/1973411/original-100x100-fit.jpg",
       "name": "SHINGLAS многослойная черепица, Ранчо, Коричневый, 2 м2",
       "count": "78 уп.",
-      "price": 589.00,
-      "total": 45471.00
+      "price": "589.00",
+      "total": "45471.00"
     }, {
       "img": "https://cs.petrovich.ru/images/1714001/original-100x100-fit.jpg",
       "name": "Черепица конька/карниза  (уп. 12 п.м / 20 п.м)",
       "count": "3 уп.",
-      "price": 4988.00,
-      "total": 13717.00
+      "price": "4988.00",
+      "total": "13717.00"
     }, {
       "img": "https://cs.petrovich.ru/images/42076/original-100x100-fit.jpg",
       "name": "Планка карниза, 2 м",
       "count": "15 шт.",
-      "price": 595.00,
-      "total": 8925.00
+      "price": "595.00",
+      "total": "8925.00"
     }, {
       "img": "https://cs.petrovich.ru/images/192529/original-100x100-fit.jpg",
       "name": "Планка ветровая, 2 м",
       "count": "10 шт.",
-      "price": 780.00,
-      "total": 7800.00
+      "price": "780.00",
+      "total": "7800.00"
     }, {
       "img": "https://cs.petrovich.ru/images/2488675/original-100x100-fit.jpg",
       "name": "Ковер подкладочный, рулон 15 м2",
       "count": "11 шт.",
-      "price": 3829.00,
-      "total": 39439.00
+      "price": "3829.00",
+      "total": "39439.00"
     }
   ],
   "login": {
